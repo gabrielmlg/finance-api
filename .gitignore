@@ -5,6 +5,7 @@ __pycache__/
 
 .vscode
 Pipfile.lock
+datasets
 
 # C extensions
 *.so
